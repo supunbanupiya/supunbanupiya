@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Supun Hettige</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 <p>👀 I’m interested in Full Stack Developing</p>
+<p>🌱 I’m currently learning React JS, Asp.Net and Node Js</p>
+<p>💞️ I’m looking to collaborate on Some Cool projects</p>
+<p>📫 How to reach me just check my Bio/ Linkedin</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunbanupiya&label=Profile%20views&color=0e75b6&style=flat" alt="supunbanupiya" /> </p>
