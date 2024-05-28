@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Supun Hettige</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<p>👀 I’m interested in Full Stack Developing</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunbanupiya&label=Profile%20views&color=0e75b6&style=flat" alt="supunbanupiya" /> </p>
