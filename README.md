@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Supun Hettige</h1>
+<h1 align="center">Hi 👋, I'm Supun </h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 <p>👀 I’m interested in Full Stack Developing</p>
 <p>🌱 I’m currently learning React JS, Asp.Net and Node Js</p>
